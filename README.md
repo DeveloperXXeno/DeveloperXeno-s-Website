@@ -25,9 +25,4 @@ JavaScript (ES6+)
 HTML5
 CSS3
 
-## 🎯 Purpose
-
-Developer Xeno aims to provide a professional online presence to display my work, learnings and development path to others. It also serves as a playground to experiment with modern tools and technologies related to web development.
----
-
 If you like this project, consider starring it! ⭐
